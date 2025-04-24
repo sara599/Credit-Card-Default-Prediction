@@ -1,2 +1,2 @@
 # Credit-Card-Default-Prediction
-Developed a credit risk prediction model using Random Forest with 100% accuracy.
+This project focuses on building a machine learning model to predict the likelihood of credit card applicants defaulting on their loans. Using a combination of demographic, financial, and credit history data, I developed and evaluated multiple models—including Random Forest, Logistic Regression, SVM, and KNN. The Random Forest model achieved 100% accuracy, precision, recall, and F1-score, making it the top-performing algorithm. Key insights include the impact of recent overdue behavior and overdue ratios on default risk. The model helps financial institutions enhance credit risk assessment and improve decision-making.
